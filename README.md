@@ -1,6 +1,6 @@
 # JavaScript Katas – Gabriela Garcia
 
-¡Hola! Este es mi **proyecto de Katas de JavaScript**, donde he ido avanzando paso a paso desde los **conceptos más básicos** hasta trabajar con **DOM, ES6+, y APIs reales**.
+¡Hola! Este es mi **proyecto de Katas de JavaScript**, donde he ido avanzando paso a paso desde los **conceptos más básicos** hasta trabajar con **DOM, ES6+ y APIs reales**.
 
 ---
 
